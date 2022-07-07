@@ -1,6 +1,10 @@
-.imgRedes{
-    width: 40px;
-    padding: 5px;
+i{
+    color: black;
+    width: 60px;
+    opacity: .70;
+    &:hover{
+        opacity: 1;
+ }
 }
 
 footer{
